@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 98d17969cd9758545b30f568632cafb3
+timeCreated: 1490983270
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Thirteen Pixel Fonts
+  fontNames:
+  - Thirteen Pixel Fonts
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
